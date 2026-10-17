@@ -1,0 +1,1 @@
+import{J as e,m as t}from"./format-3Vz7iQjj.js";import{A as n,D as r,E as i}from"./index-CA03Mcq2.js";var a=e();function o({status:e,label:o,className:s,dot:c}){return e?(0,a.jsx)(i,{tone:n(e),value:e,className:s,dot:c,children:o??t(e)}):(0,a.jsx)(r,{})}export{o as t};

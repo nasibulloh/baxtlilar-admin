@@ -1,0 +1,1 @@
+import{i as e}from"./errors-4mSBSynk.js";import{S as t}from"./endpoints-FGVA5OmO.js";import{An as n,ft as r}from"./index-CA03Mcq2.js";function i(){let{role:i}=n(),a=r(i,`staff`),o=e({queryKey:[`staff`,`names`],queryFn:()=>t.list({page:0,size:100}),enabled:a,staleTime:3e5,retry:!1}),s=new Map;for(let e of o.data?.items??[])s.set(e.id,e);return s}export{i as t};

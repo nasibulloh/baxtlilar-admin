@@ -1,0 +1,1 @@
+import{J as e,S as t}from"./format-3Vz7iQjj.js";import{E as n}from"./index-CA03Mcq2.js";var r=e();function i({className:e}){return(0,r.jsx)(n,{tone:`warning`,value:`MYID_SKIPPED`,testId:`myid-skipped-badge`,className:e,title:t.verifications.skippedHint,children:t.verifications.skipped})}export{i as t};

@@ -1,0 +1,1 @@
+import{J as e,S as t}from"./format-3Vz7iQjj.js";import{t as n}from"./PageHeader-BPXckPfQ.js";import{t as r}from"./MatchExplain-C134hKww.js";var i=e();function a(){return(0,i.jsxs)(`div`,{children:[(0,i.jsx)(n,{title:t.sections.explainPage.title}),(0,i.jsx)(r,{standalone:!0})]})}export{a as ExplainPage};

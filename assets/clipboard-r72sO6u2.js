@@ -1,0 +1,1 @@
+import{S as e}from"./format-3Vz7iQjj.js";import{jn as t}from"./index-CA03Mcq2.js";async function n(n,r=e.rowActions.copied){try{await navigator.clipboard.writeText(n),t.success(r)}catch{t.error(e.errors.generic)}}export{n as t};

@@ -1,0 +1,1 @@
+import{i as e}from"./errors-4mSBSynk.js";import{d as t}from"./endpoints-FGVA5OmO.js";import{r as n,t as r}from"./i18nText-B9Eb4jkB.js";var i=[`i18n`,`languages`];function a(){let a=e({queryKey:i,queryFn:t.languages,staleTime:18e5,retry:!1}),o=a.data?.languages?.length?a.data:r;return{...o,ordered:n(o),isLoading:a.isLoading}}export{a as t};
