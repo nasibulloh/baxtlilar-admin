@@ -1,0 +1,1 @@
+import{S as e,tn as t}from"./format-CVzjUqo9.js";import{t as n}from"./PageHeader-7_xhoi4b.js";import{t as r}from"./MatchExplain-BH9Wa6mN.js";var i=t();function a(){return(0,i.jsxs)(`div`,{children:[(0,i.jsx)(n,{title:e.sections.pairCheckPage.title}),(0,i.jsx)(r,{standalone:!0})]})}export{a as PairCheckPage};

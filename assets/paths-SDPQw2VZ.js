@@ -1,0 +1,1 @@
+var e=e=>`/safety/reports/${e.id}${e.reportedId==null?``:`?member=${e.reportedId}`}`;export{e as t};

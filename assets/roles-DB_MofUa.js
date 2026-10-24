@@ -1,0 +1,1 @@
+var e=[`MODERATOR`,`ADMIN`],t=e=>e===`ROOT`||e===`ADMIN`||e===`MODERATOR`||e===`SUPPORT`,n=e=>e===`ADMIN`||e===`ROOT`;function r(n,r){if(!t(n))return!1;let i=!r||r.length===0?e:r;return i.includes(n)||n===`ROOT`&&i.includes(`ADMIN`)}export{t as i,r as n,n as r,e as t};

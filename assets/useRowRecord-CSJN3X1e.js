@@ -1,0 +1,1 @@
+import{It as e,Yt as t}from"./format-CVzjUqo9.js";import{i as n}from"./queryKeys-xpBi35Sm.js";function r(r,i,a){let{state:o}=t(),s=o?.row;return n({queryKey:r,queryFn:async()=>{let t=await a();if(!t)throw new e(`error.http.404`,404);return t},initialData:s,staleTime:s?6e4:0,enabled:!!i,retry:!1})}var i=(e,t,n)=>void e(t,n===void 0?void 0:{state:{row:n}});export{r as n,i as t};

@@ -1,0 +1,1 @@
+import{R as e}from"./format-CVzjUqo9.js";import{i as t,t as n}from"./queryKeys-xpBi35Sm.js";import{X as r,pn as i}from"./index-DGCPNy_O.js";function a(){let{role:a}=i(),o=r(a,`staff`),s=t({queryKey:n.staff.names(),queryFn:()=>e.list({page:0,size:100}),enabled:o,staleTime:3e5,retry:!1}),c=new Map;for(let e of s.data?.items??[])c.set(e.id,e);return c}export{a as t};

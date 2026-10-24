@@ -1,0 +1,1 @@
+import{Yt as e,an as t,nn as n}from"./format-CVzjUqo9.js";var r=t(n(),1);function i(t){let{hash:n}=e();(0,r.useEffect)(()=>{t&&n&&document.getElementById(decodeURIComponent(n.slice(1)))?.scrollIntoView?.({behavior:`smooth`,block:`start`})},[t,n])}export{i as t};

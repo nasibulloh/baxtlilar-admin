@@ -1,0 +1,1 @@
+import{tn as e}from"./format-CVzjUqo9.js";import{T as t}from"./index-DGCPNy_O.js";import{n}from"./PageHeader-7_xhoi4b.js";import{t as r}from"./TimeSeriesChart-DGe_HleQ.js";var i=e(),a=92;function o({spec:e}){let{from:o,to:s}=n(),c=t(o,s,a);return(0,i.jsx)(r,{spec:e,from:c.from,to:c.to})}export{o as t};

@@ -1,0 +1,1 @@
+import{S as e,tn as t}from"./format-CVzjUqo9.js";import{m as n}from"./index-DGCPNy_O.js";var r=t();function i({className:t}){return(0,r.jsx)(n,{tone:`warning`,value:`SELF_CHECK`,testId:`self-check-badge`,className:t,title:e.verifications.selfCheckHint,children:e.verifications.selfCheck})}export{i as t};

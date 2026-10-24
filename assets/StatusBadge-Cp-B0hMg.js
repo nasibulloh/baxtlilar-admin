@@ -1,0 +1,1 @@
+import{m as e,tn as t}from"./format-CVzjUqo9.js";import{b as n,h as r,m as i}from"./index-DGCPNy_O.js";var a=t();function o({status:t,label:o,className:s,dot:c}){return t?(0,a.jsx)(i,{tone:n(t),value:t,className:s,dot:c,children:o??e(t)}):(0,a.jsx)(r,{})}export{o as t};

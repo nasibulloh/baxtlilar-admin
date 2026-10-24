@@ -1,0 +1,1 @@
+import{S as e}from"./format-CVzjUqo9.js";var t=t=>/^\d+$/.test(t)?null:e.filters.idInvalid;export{t};

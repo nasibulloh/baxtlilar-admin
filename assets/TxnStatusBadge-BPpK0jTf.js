@@ -1,0 +1,1 @@
+import{S as e,tn as t}from"./format-CVzjUqo9.js";import{m as n,v as r}from"./index-DGCPNy_O.js";var i=t();function a({status:t,dot:a}){return(0,i.jsx)(n,{tone:r[t]??`neutral`,value:t,dot:a,children:e.txn.txnStatuses[t]??t})}export{a as t};

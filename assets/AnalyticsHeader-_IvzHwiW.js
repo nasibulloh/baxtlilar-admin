@@ -1,0 +1,1 @@
+import{S as e,r as t,tn as n}from"./format-CVzjUqo9.js";import{n as r,t as i}from"./PageHeader-7_xhoi4b.js";var a=n();function o({title:n,actions:o,withRange:s=!0}){let{from:c,to:l}=r();return(0,a.jsx)(i,{title:n,subtitle:s?(0,a.jsx)(`span`,{"data-testid":`analytics-period`,children:e.analytics.period(t(c),t(l))}):void 0,actions:o})}export{o as t};

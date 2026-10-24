@@ -1,0 +1,1 @@
+import{tn as e}from"./format-CVzjUqo9.js";import{t}from"./Section-Dg-unfvX.js";var n=e();function r({title:e,description:r,action:i,children:a,height:o,flush:s,className:c,testId:l}){return(0,n.jsx)(t,{title:e,description:r,action:i,flush:s,className:c,testId:l,children:o?(0,n.jsx)(`div`,{style:{height:o},children:a}):a})}export{r as t};
